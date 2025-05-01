@@ -1,7 +1,7 @@
-name = "secure-worker"
+name = "<WORKER_NAME>"
 main = "src/index.js"
 compatibility_date = "2023-01-01"
 
 [[r2_buckets]]
-binding = "FLAGS_BUCKET"
-bucket_name = "flags-bucket"
+binding = "<JS_BINDING>"
+bucket_name = "<R2_CC_IMAGES_BUCKET_NAME>"
