@@ -1,7 +1,6 @@
 <h1 align="center">Cloudflare Worker</h1>
 
 <p align="center">
-<img src="cloudflare-workers-outline.png" alt="workers-logo" width="120px" height="120px"/>
   <br>
   Cloudflare Worker to display user email address, logged in time and country origin.
   <br>
