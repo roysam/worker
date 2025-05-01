@@ -27,8 +27,6 @@ npx wrangler login
 wrangler deploy
 ```
 
-For more info, visit our [Getting Started](https://developers.cloudflare.com/workers/get-started/guide/) guide.
-
 ## Documentation
 
 - [Developers](https://developers.cloudflare.com/workers/)
