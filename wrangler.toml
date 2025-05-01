@@ -3,5 +3,5 @@ main = "src/index.js"
 compatibility_date = "2023-01-01"
 
 [[r2_buckets]]
-binding = "<JS_BINDING>"
+binding = "FLAGS_BUCKET"
 bucket_name = "<R2_CC_IMAGES_BUCKET_NAME>"
