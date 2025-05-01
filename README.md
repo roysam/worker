@@ -31,6 +31,6 @@ wrangler deploy
 
 - [Developers](https://developers.cloudflare.com/workers/)
                                           
-## Links
+## Resources 
 
 - [YouTube](https://www.youtube.com/watch?v=H7Qe96fqg1M)
